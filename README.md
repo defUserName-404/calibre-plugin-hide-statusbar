@@ -4,7 +4,7 @@ Personally I think it gives the interface a cleaner look, and I generally don't 
 This plugin still allows the status bar to be shown with either a button or keyboard shortcut `Ctrl+Shift+S`.
 
 ## Install
-Download this repository as a `zip` file and import it into Calibre:
+Download `hide_statusbar.zip` from the [latest release](../../releases/latest) (not GitHub's "Download ZIP" of the repo; Calibre needs the files at the zip root) and import it into Calibre:
 
 `Settings -> Advanced -> Plugins -> Load Plugin from file`
 
